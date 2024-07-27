@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rustdesk/rustdesk-server
 haroldli/xiaoya-tvbox
+gdy666/lucky
